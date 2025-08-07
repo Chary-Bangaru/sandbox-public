@@ -1,13 +1,11 @@
 # Bangaru Raja Gopala Chary - CE25M062
-I just added this message to the README.md. Now I am going to save the file using VS Code, but the work is not done with git! Now I've edited this file on the `first-branch`-branch.
 
-Saving the file simply writes the new text to your hard disk. We need to tell git that we want to preserve these changes for the project (making a
-"commit"), then send them
-back to the repository on GitHub so the rest of our team can see them (this is "pushing to origin").
+1.Remote and Local : Local repository refers to my project stored on my local machine and Remote repository is the version of my project hosted on remote server.
 
-Make changes with the Web IDE!
+2.Forking : It is the process of creating a personal copy of an existing repository in my own GitHub account.
 
-Another remote commit was made that i want to fetch to my local repository and pull if there are no conflicts. And now I've edited this file on the `main`-branch.**I add some text to the same line but now on `main`, will this give me a conflict?**
-**I've added some text to this line now from the branch `conflicting-instructions'**
+3.Cloning : It creates a local copy of a Github Repository on my local machine using Github and sync between two locations.
 
-I will change information on local machine.
+4.Push-Pull : It is the operation for syncronizing changes between my local repository and a remote repository. Push is used to upload commits from my local repository to a remote repository, While Pull is used to download changes from a remote repository to my local repository.
+
+5.Commit : It records the changes that We have made in our local repository and While committing we have to describe what changes we have made in the Description.
